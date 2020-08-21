@@ -1,7 +1,7 @@
 import React, { Fragment, useState } from 'react';
-import IconMusic from '@assets/images/music-icon.png';
-import IconMusicStop from '@assets/images/music-stop-icon.png';
-import MusicBacksound from '@assets/music/Roja.mp3';
+import IconMusic from '@Assets/images/music-icon (1).jpg';
+import IconMusicStop from '@Assets/images/music-stop-icon.jpg';
+import MusicBacksound from '@Assets/music/bgm.mp3';
 
 import { styMusicFloating } from './styles';
 
